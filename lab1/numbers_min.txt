@@ -1,0 +1,3 @@
+
+Numbers MIN:
+{data[numbers].min().to_string()}
